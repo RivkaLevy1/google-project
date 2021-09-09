@@ -1,8 +1,8 @@
-# google-project-rivki-levy-dini-deutsch
-google-project-rivki-levy-dini-deutsch created by GitHub Classroom
-#Google Autocomplete Project
-#####Dini Deutsch & Rivki Levy
-##Description
+# google-project-rivka-levy
+
+# Google Autocomplete Project
+
+## Description
 The goal of the project was to provide 
 an autocomplete service for a huge data 
 source.
